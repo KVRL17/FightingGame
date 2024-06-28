@@ -1,0 +1,42 @@
+.main-div{
+    margin: 0px;
+    margin-left: 37%;
+    width: 50%;
+    height: 200px;
+    text-align: center;
+    display: flex;
+}
+.buttons{
+    margin: 100px;
+    margin-left: 39%;
+    width: 50%;
+    height: 50px;
+    text-align: center;
+    display: flex;
+}
+.button2{
+    margin-left: 13%;
+}
+.reset{
+    margin: 100px;
+    margin-left: 25%;
+    margin-top: 0%;
+    width: 50%;
+    height: 250px;
+    text-align: center;
+}
+.score{
+    margin: 40px;
+    margin-left: 25%;
+    margin-top: 0%;
+    width: 80%;
+    height: 10px;
+    text-align: center;
+    display: flex;
+}
+.heading{
+    margin-left: 25%;
+    margin-top: 2%;
+    width: 50%;
+    text-align: center;
+}
